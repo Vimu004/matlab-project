@@ -59,5 +59,4 @@ This project leverages MATLAB's powerful capabilities for analyzing user acceler
   - Statistics and Machine Learning Toolbox
 
 ## Resources
-- Project Report: Refer to the AI ML Final Report (Group 88).pdf for an in-depth explanation of the methodologies and results.
 - Visualization: Check the /plots and /User Plots folders for graphical insights.  
