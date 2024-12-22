@@ -1,0 +1,25 @@
+user_files = {
+    'U01_Acc_TimeD_FDay.mat', 'U02_Acc_TimeD_FDay.mat', 'U03_Acc_TimeD_FDay.mat', 'U04_Acc_TimeD_FDay.mat', ...
+    'U05_Acc_TimeD_FDay.mat', 'U06_Acc_TimeD_FDay.mat', 'U07_Acc_TimeD_FDay.mat', 'U08_Acc_TimeD_FDay.mat', ...
+    'U09_Acc_TimeD_FDay.mat', 'U10_Acc_TimeD_FDay.mat'
+};
+
+all_features = [];
+
+for i = 1:length(user_files)
+    data = load(fullfile('D:\NSBM (Main)\1. NSBM - Degree\Degree\3rd Year\AI_ML\project\CW-Data\CW-Data', user_files{i}));
+    
+    if isfield(data, 'Acc_TD_Feat_Vec')
+        features = data.Acc_TD_Feat_Vec;
+        all_features = [all_features; features];
+    end
+end
+
+correlation_matrix = corr(all_features);
+
+figure;
+heatmap(correlation_matrix, 'Title', 'Feature Correlation Matrix', 'ColorbarVisible', 'on', ...
+    'XDisplayLabels', 1:size(correlation_matrix, 2), 'YDisplayLabels', 1:size(correlation_matrix, 1));
+
+colormap('jet');
+set(gca, 'FontSize', 10);

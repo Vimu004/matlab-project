@@ -1,0 +1,543 @@
+understand_data
+Processing file: U01_Acc_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: -0.005666
+Maximum value: 1.025201
+Mean value: 0.177099
+Standard deviation: 0.307504
+Processing file: U01_Acc_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: -0.012995
+Maximum value: 1.030423
+Mean value: 0.175120
+Standard deviation: 0.307129
+Processing file: U01_Acc_TimeD_FDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -1.581257
+Maximum value: 255.000000
+Mean value: 11.845051
+Standard deviation: 37.017975
+Processing file: U01_Acc_TimeD_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -1.581257
+Maximum value: 255.000000
+Mean value: 8.015113
+Standard deviation: 30.829993
+Processing file: U01_Acc_TimeD_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -2.565346
+Maximum value: 256.000000
+Mean value: 8.006170
+Standard deviation: 30.686260
+Processing file: U01_Acc_TimeD_MDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -2.565346
+Maximum value: 256.000000
+Mean value: 11.832705
+Standard deviation: 36.840823
+Processing file: U02_Acc_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: 0.000002
+Maximum value: 1.017225
+Mean value: 0.157956
+Standard deviation: 0.285837
+Processing file: U02_Acc_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: 0.000001
+Maximum value: 1.049542
+Mean value: 0.147776
+Standard deviation: 0.275842
+Processing file: U02_Acc_TimeD_FDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -1.926101
+Maximum value: 217.000000
+Mean value: 11.946251
+Standard deviation: 33.043692
+Processing file: U02_Acc_TimeD_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -1.926101
+Maximum value: 217.000000
+Mean value: 8.076811
+Standard deviation: 27.641983
+Processing file: U02_Acc_TimeD_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -1.624983
+Maximum value: 184.000000
+Mean value: 8.069654
+Standard deviation: 27.263200
+Processing file: U02_Acc_TimeD_MDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -1.624983
+Maximum value: 184.000000
+Mean value: 11.940572
+Standard deviation: 32.571320
+Processing file: U03_Acc_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: 0.000002
+Maximum value: 0.997830
+Mean value: 0.177723
+Standard deviation: 0.307050
+Processing file: U03_Acc_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: 0.000000
+Maximum value: 0.995624
+Mean value: 0.173157
+Standard deviation: 0.300267
+Processing file: U03_Acc_TimeD_FDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -0.717607
+Maximum value: 261.000000
+Mean value: 11.940605
+Standard deviation: 33.268324
+Processing file: U03_Acc_TimeD_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -0.717607
+Maximum value: 261.000000
+Mean value: 8.079506
+Standard deviation: 27.820076
+Processing file: U03_Acc_TimeD_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -0.666544
+Maximum value: 236.000000
+Mean value: 8.079921
+Standard deviation: 26.939773
+Processing file: U03_Acc_TimeD_MDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -0.666544
+Maximum value: 236.000000
+Mean value: 11.943454
+Standard deviation: 32.170772
+Processing file: U04_Acc_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: 0.000007
+Maximum value: 1.030704
+Mean value: 0.168154
+Standard deviation: 0.301865
+Processing file: U04_Acc_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: -0.091517
+Maximum value: 1.079220
+Mean value: 0.167100
+Standard deviation: 0.304111
+Processing file: U04_Acc_TimeD_FDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -2.323537
+Maximum value: 241.000000
+Mean value: 11.864938
+Standard deviation: 36.335451
+Processing file: U04_Acc_TimeD_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -2.323537
+Maximum value: 241.000000
+Mean value: 8.025536
+Standard deviation: 30.282133
+Processing file: U04_Acc_TimeD_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -2.595803
+Maximum value: 235.000000
+Mean value: 8.020742
+Standard deviation: 29.251147
+Processing file: U04_Acc_TimeD_MDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -2.595803
+Maximum value: 235.000000
+Mean value: 11.858317
+Standard deviation: 35.056071
+Processing file: U05_Acc_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: -0.037536
+Maximum value: 1.056738
+Mean value: 0.165078
+Standard deviation: 0.306206
+Processing file: U05_Acc_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: -0.112924
+Maximum value: 1.116332
+Mean value: 0.162357
+Standard deviation: 0.305580
+Processing file: U05_Acc_TimeD_FDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -2.429025
+Maximum value: 300.000000
+Mean value: 11.894770
+Standard deviation: 40.114069
+Processing file: U05_Acc_TimeD_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -2.429025
+Maximum value: 300.000000
+Mean value: 8.044566
+Standard deviation: 33.334829
+Processing file: U05_Acc_TimeD_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -2.515900
+Maximum value: 281.000000
+Mean value: 8.030736
+Standard deviation: 31.040864
+Processing file: U05_Acc_TimeD_MDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -2.515900
+Maximum value: 281.000000
+Mean value: 11.875513
+Standard deviation: 37.274763
+Processing file: U06_Acc_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: 0.000000
+Maximum value: 0.997668
+Mean value: 0.171922
+Standard deviation: 0.309691
+Processing file: U06_Acc_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: 0.000000
+Maximum value: 0.997759
+Mean value: 0.172263
+Standard deviation: 0.309593
+Processing file: U06_Acc_TimeD_FDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -2.241767
+Maximum value: 292.000000
+Mean value: 11.862455
+Standard deviation: 40.102296
+Processing file: U06_Acc_TimeD_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -2.241767
+Maximum value: 292.000000
+Mean value: 8.025105
+Standard deviation: 33.322289
+Processing file: U06_Acc_TimeD_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -2.216600
+Maximum value: 280.000000
+Mean value: 8.027379
+Standard deviation: 32.864613
+Processing file: U06_Acc_TimeD_MDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -2.216600
+Maximum value: 280.000000
+Mean value: 11.865675
+Standard deviation: 39.535723
+Processing file: U07_Acc_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: -0.002602
+Maximum value: 1.107378
+Mean value: 0.136301
+Standard deviation: 0.271385
+Processing file: U07_Acc_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: -0.002602
+Maximum value: 1.107378
+Mean value: 0.136301
+Standard deviation: 0.271385
+Processing file: U07_Acc_TimeD_FDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -1.042511
+Maximum value: 224.000000
+Mean value: 11.846471
+Standard deviation: 33.945319
+Processing file: U07_Acc_TimeD_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -1.042511
+Maximum value: 224.000000
+Mean value: 8.002675
+Standard deviation: 28.359142
+Processing file: U07_Acc_TimeD_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -1.042511
+Maximum value: 224.000000
+Mean value: 8.002675
+Standard deviation: 28.359142
+Processing file: U07_Acc_TimeD_MDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -1.042511
+Maximum value: 224.000000
+Mean value: 11.846471
+Standard deviation: 33.945319
+Processing file: U08_Acc_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: 0.000005
+Maximum value: 1.104258
+Mean value: 0.142016
+Standard deviation: 0.280377
+Processing file: U08_Acc_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: 0.000002
+Maximum value: 1.126067
+Mean value: 0.136228
+Standard deviation: 0.272206
+Processing file: U08_Acc_TimeD_FDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -0.852410
+Maximum value: 253.000000
+Mean value: 11.845505
+Standard deviation: 33.497088
+Processing file: U08_Acc_TimeD_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -0.852410
+Maximum value: 253.000000
+Mean value: 8.003902
+Standard deviation: 27.998270
+Processing file: U08_Acc_TimeD_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -0.826860
+Maximum value: 219.000000
+Mean value: 7.990290
+Standard deviation: 28.217209
+Processing file: U08_Acc_TimeD_MDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -0.826860
+Maximum value: 219.000000
+Mean value: 11.828070
+Standard deviation: 33.770849
+Processing file: U09_Acc_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: -0.111818
+Maximum value: 1.141889
+Mean value: 0.129994
+Standard deviation: 0.273733
+Processing file: U09_Acc_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: -0.117465
+Maximum value: 1.146457
+Mean value: 0.136405
+Standard deviation: 0.279853
+Processing file: U09_Acc_TimeD_FDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -1.667385
+Maximum value: 225.000000
+Mean value: 11.854315
+Standard deviation: 34.619443
+Processing file: U09_Acc_TimeD_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -1.667385
+Maximum value: 225.000000
+Mean value: 8.005874
+Standard deviation: 28.902606
+Processing file: U09_Acc_TimeD_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -1.609826
+Maximum value: 241.000000
+Mean value: 8.020039
+Standard deviation: 27.712645
+Processing file: U09_Acc_TimeD_MDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -1.609826
+Maximum value: 241.000000
+Mean value: 11.872269
+Standard deviation: 33.137827
+Processing file: U10_Acc_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: 0.000001
+Maximum value: 1.096586
+Mean value: 0.165461
+Standard deviation: 0.285725
+Processing file: U10_Acc_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_FD_Feat_Vec'}
+
+Analyzing field: Acc_FD_Feat_Vec
+Minimum value: -0.886441
+Maximum value: 1.320951
+Mean value: 0.175372
+Standard deviation: 0.342500
+Processing file: U10_Acc_TimeD_FDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -1.833133
+Maximum value: 196.000000
+Mean value: 11.817263
+Standard deviation: 30.135645
+Processing file: U10_Acc_TimeD_FreqD_FDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -1.833133
+Maximum value: 196.000000
+Mean value: 7.992626
+Standard deviation: 25.297543
+Processing file: U10_Acc_TimeD_FreqD_MDay.mat
+Fields in the current file:
+    {'Acc_TDFD_Feat_Vec'}
+
+Analyzing field: Acc_TDFD_Feat_Vec
+Minimum value: -1.948106
+Maximum value: 203.000000
+Mean value: 8.018688
+Standard deviation: 25.336983
+Processing file: U10_Acc_TimeD_MDay.mat
+Fields in the current file:
+    {'Acc_TD_Feat_Vec'}
+
+Analyzing field: Acc_TD_Feat_Vec
+Minimum value: -1.948106
+Maximum value: 203.000000
+Mean value: 11.851217
+Standard deviation: 30.181594
+Finished processing all files.
+>> 
