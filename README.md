@@ -4,27 +4,25 @@ This repository contains code and visualizations for analyzing user acceleration
 
 ## File Structure
 
-/code
-/inter_and_intra_variance_analysis
-/plots               - Visualizations related to variance analysis
-/intervariance       - Inter-variance analysis results
-/intravariance       - Intra-variance analysis results
-/model
-/model_outputs_imgs   - Folder for model output images
-/AllPreparedData      - Prepared data used for the model
-model1.mlx            - MATLAB Live Script for Model 1
-newmol.m              - Script version of the model
-/user_acceleration_analysis
-/cw-data-cat         - Organized dataset for acceleration analysis
-/Data Understanding  - Folder for data exploration and analysis
-/User Plots          - Visualizations for user data
-/analysis
-/data_understanding   - Folder for analysis on data understanding
-/allvisualization
-featurecorrelation.m  - Script for feature correlation analysis of the dataset
-
-/AI ML Final Report (Group 88).pdf - Project report document
-/readme.txt - This README file
+    ├── code                                   # Main code folder
+    │   ├── inter_and_intra_variance_analysis  # Folder for variance analysis
+    │   │   ├── plots                          # Visualizations related to variance analysis
+    │   │   ├── intervariance                  # Inter-variance analysis results
+    │   │   └── intravariance                  # Intra-variance analysis results
+    │   ├── model                              # Folder for model-related files
+    │   │   ├── model_outputs_imgs             # Folder for model output images
+    │   │   ├── AllPreparedData                # Prepared data used for the model
+    │   │   ├── model1.mlx                     # MATLAB Live Script for Model 1
+    │   │   └── newmol.m                       # Script version of the model
+    │   ├── user_acceleration_analysis         # Folder for acceleration analysis
+    │   │   ├── cw-data-cat                    # Organized dataset for acceleration analysis
+    │   │   ├── Data Understanding             # Folder for data exploration and analysis
+    │   │   └── User Plots                     # Visualizations for user data
+    │   ├── analysis                           # Folder for analysis files
+    │   │   └── data_understanding             # Folder for analysis on data understanding
+    │   └── allvisualization                   # Folder for all visualizations
+    │   └── featurecorrelation.m               # Script for feature correlation analysis of the dataset
+    └── ...
 
 ## Overview
 
